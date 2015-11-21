@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="services/json/|services/websql/|services/localstorage/|services/memory/" kind="src" path="js"/>
+	<classpathentry kind="src" path="js/services/json"/>
+	<classpathentry kind="src" path="js/services/localstorage"/>
+	<classpathentry kind="src" path="js/services/memory"/>
+	<classpathentry kind="src" path="js/services/websql"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
